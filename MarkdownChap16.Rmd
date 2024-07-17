@@ -6,3 +6,11 @@ output:
 date: "2024-07-17"
 ---
 
+```{r, eval=TRUE}
+## insert your brilliant WORKING code here
+print("Hello, World!")
+x = 3 + 3
+print(x)
+print("Goodbye, World!")
+```
+
