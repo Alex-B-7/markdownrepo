@@ -14,3 +14,13 @@ print(x)
 print("Goodbye, World!")
 ```
 
+```{r, eval=TRUE}
+# insert code block number 2
+print("Hello code block 2")
+x = 45 / 5
+print(x)
+print("Goodbye code block 2")
+
+```
+
+

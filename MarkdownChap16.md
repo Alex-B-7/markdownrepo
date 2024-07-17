@@ -7,32 +7,57 @@ date: "2024-07-17"
 ---
 
 
+``` r
+## insert your brilliant WORKING code here
+print("Hello, World!")
+```
 
-## R Markdown
+```
+## [1] "Hello, World!"
+```
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+``` r
+x = 3 + 3
+print(x)
+```
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+```
+## [1] 6
+```
+
+``` r
+print("Goodbye, World!")
+```
+
+```
+## [1] "Goodbye, World!"
+```
 
 
 ``` r
-summary(cars)
+# insert code block number 2
+print("Hello code block 2")
 ```
 
 ```
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
+## [1] "Hello code block 2"
 ```
 
-## Including Plots
+``` r
+x = 45 / 5
+print(x)
+```
 
-You can also embed plots, for example:
+```
+## [1] 9
+```
 
-![](MarkdownChap16_files/figure-html/pressure-1.png)<!-- -->
+``` r
+print("Goodbye code block 2")
+```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```
+## [1] "Goodbye code block 2"
+```
+
+
