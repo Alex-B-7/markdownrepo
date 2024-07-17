@@ -3,7 +3,7 @@
 #' output: github_document
 #' ---
 #'
-#'#' Here's some prose in a very special comment. Let's summarize the built-in
+#' Here's some prose in a very special comment. Let's summarize the built-in
 #' dataset `VADeaths`.
 # here is a regular code comment, that will remain as such
 summary(VADeaths)
