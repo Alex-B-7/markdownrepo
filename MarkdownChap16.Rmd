@@ -24,3 +24,9 @@ print("Goodbye code block 2")
 ```
 
 
+```{r}
+#new chunk testing git log
+print("Hello git log")
+print("Goodbye git log")
+```
+
